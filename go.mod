@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	contrib.go.opencensus.io/exporter/prometheus v0.3.0
-	github.com/Shopify/sarama v1.28.0
+	github.com/Shopify/sarama v1.29.0
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/antonmedv/expr v1.8.9
 	github.com/apache/thrift v0.13.0
@@ -44,7 +44,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/sys v0.0.0-20210309074719-68d13333faf2
+	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
 	golang.org/x/text v0.3.6
 	google.golang.org/genproto v0.0.0-20210302174412-5ede27ff9881
 	google.golang.org/grpc v1.36.1
