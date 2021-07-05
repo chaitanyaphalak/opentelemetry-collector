@@ -43,7 +43,7 @@ require (
 	github.com/xdg-go/scram v0.0.0-20180814205039-7eeb5667e42c
 	go.opencensus.io v0.23.0
 	go.uber.org/atomic v1.7.0
-	go.uber.org/zap v1.16.0
+	go.uber.org/zap v1.18.1
 	golang.org/x/sys v0.0.0-20210309074719-68d13333faf2
 	golang.org/x/text v0.3.6
 	google.golang.org/genproto v0.0.0-20210302174412-5ede27ff9881
