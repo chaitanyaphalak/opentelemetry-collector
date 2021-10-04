@@ -7,7 +7,6 @@ require (
 	contrib.go.opencensus.io/exporter/prometheus v0.3.0
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
-	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/fatih/structtag v1.2.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/uuid v1.3.0
@@ -28,11 +27,11 @@ require (
 	go.opentelemetry.io/collector/model v0.33.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.22.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.22.0
-	go.opentelemetry.io/contrib/zpages v0.22.0
-	go.opentelemetry.io/otel v1.0.0-RC2
+	go.opentelemetry.io/contrib/zpages v0.24.0
+	go.opentelemetry.io/otel v1.0.0
 	go.opentelemetry.io/otel/oteltest v1.0.0-RC2
-	go.opentelemetry.io/otel/sdk v1.0.0-RC2
-	go.opentelemetry.io/otel/trace v1.0.0-RC2
+	go.opentelemetry.io/otel/sdk v1.0.0
+	go.opentelemetry.io/otel/trace v1.0.0
 	go.uber.org/zap v1.19.0
 	golang.org/x/mod v0.4.2
 	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
