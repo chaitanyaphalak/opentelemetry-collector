@@ -7,7 +7,6 @@ require (
 	contrib.go.opencensus.io/exporter/prometheus v0.3.0
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
-	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/fatih/structtag v1.2.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/uuid v1.3.0
@@ -19,7 +18,7 @@ require (
 	github.com/prometheus/common v0.30.0
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
 	github.com/rs/cors v1.8.0
-	github.com/shirou/gopsutil v3.21.7+incompatible
+	github.com/shirou/gopsutil v3.21.9+incompatible
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
