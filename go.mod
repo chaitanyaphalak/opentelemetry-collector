@@ -7,7 +7,6 @@ require (
 	contrib.go.opencensus.io/exporter/prometheus v0.3.0
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
-	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/fatih/structtag v1.2.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/uuid v1.3.0
@@ -15,7 +14,7 @@ require (
 	github.com/jaegertracing/jaeger v1.25.0
 	github.com/knadh/koanf v1.2.1
 	github.com/magiconair/properties v1.8.5
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.4.2
 	github.com/prometheus/common v0.30.0
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
 	github.com/rs/cors v1.8.0
