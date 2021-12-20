@@ -177,7 +177,7 @@ jobs:
       - name: Create Collector Binaries Archive
         run: tar -cvf bin.tar ./bin
       - name: Upload Collector Binaries
-        uses: actions/upload-artifact@v2.2.4
+        uses: actions/upload-artifact@v2.3.1
         with:
           name: collector-binaries
           path: ./bin.tar
@@ -186,7 +186,7 @@ jobs:
       - name: Create Unstable Collector Binaries Archive
         run: tar -cvf bin-unstable.tar ./bin/*unstable
       - name: Upload Unstable Collector Binaries
-        uses: actions/upload-artifact@v2.2.4
+        uses: actions/upload-artifact@v2.3.1
         with:
           name: collector-binaries-unstable
           path: ./bin-unstable.tar
