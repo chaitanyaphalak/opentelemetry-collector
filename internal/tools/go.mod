@@ -8,7 +8,7 @@ require (
 	github.com/google/addlicense v1.0.0
 	github.com/jcchavezs/porto v0.4.0
 	github.com/mjibson/esc v0.2.0
-	github.com/ory/go-acc v0.2.6
+	github.com/ory/go-acc v0.2.7
 	github.com/pavius/impi v0.0.3
 	github.com/tcnksm/ghr v0.14.0
 	github.com/wadey/gocovmerge v0.0.0-20160331181800-b5bfa59ec0ad
