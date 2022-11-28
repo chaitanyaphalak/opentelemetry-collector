@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/golangci-lint v1.42.1
-	github.com/google/addlicense v1.0.0
+	github.com/google/addlicense v1.1.0
 	github.com/jcchavezs/porto v0.4.0
 	github.com/mjibson/esc v0.2.0
 	github.com/ory/go-acc v0.2.6
